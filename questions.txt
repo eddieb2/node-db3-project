@@ -1,0 +1,10 @@
+
+1.
+EXPLAIN THE DB-CONFIG?
+CAN'T FIND IT IN DOCS OR TK
+
+2.
+IS THIS ARRAY DESTRUCTURING?
+.then(([id]) => {
+    return findById(id)
+  })
